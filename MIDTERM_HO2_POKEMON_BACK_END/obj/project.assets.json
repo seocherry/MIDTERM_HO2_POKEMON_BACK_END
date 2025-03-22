@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BERNARDO\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT\\Documents\\Pokemon\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END.csproj",
       "projectName": "MIDTERM_HO2_POKEMON_BACK_END",
-      "projectPath": "C:\\BERNARDO\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END.csproj",
+      "projectPath": "C:\\Users\\STUDENT\\Documents\\Pokemon\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END.csproj",
       "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\BERNARDO\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT\\Documents\\Pokemon\\MIDTERM_HO2_POKEMON_BACK_END\\MIDTERM_HO2_POKEMON_BACK_END\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
